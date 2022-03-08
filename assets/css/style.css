@@ -76,3 +76,9 @@ nav a {
    
    
 }
+
+nav a b:hover {
+    color: #48CE58;
+    text-shadow: 0px 0px 8px rgb(221, 221, 221);
+    
+}
