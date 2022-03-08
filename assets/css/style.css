@@ -3,9 +3,12 @@ body{
     padding: 0px;
     margin: 0px;
 }
+
 /* fonts family: "Times New Roman", Nunito, Roboto, Ionicons*/
+
+/*Header*/
 .containerHead{
-    justify-content: center;
+    justify-content: left;
     height: 80px;
     display: flex;
     background-color: rgb(255, 255, 255);
@@ -17,4 +20,25 @@ body{
 
 #menuHead{
     background-color: rgb(255, 255, 255);
+}
+
+nav li, nav ul a{
+font-family: 'Nunito', sans-serif;
+ color: grey;
+ list-style: none;
+ margin: 0%;
+ padding: 0%;
+ text-decoration: none;
+
+}
+
+nav ul {
+ display: flex;
+
+}
+
+nav a {
+    display: block;
+    padding: 15px;
+   
 }
