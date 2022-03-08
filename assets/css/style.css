@@ -1,0 +1,20 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+/* fonts family: "Times New Roman", Nunito, Roboto, Ionicons*/
+.containerHead{
+    justify-content: center;
+    height: 80px;
+    display: flex;
+    background-color: rgb(255, 255, 255);
+}
+
+#logoHead{
+    background-color: rgb(255, 255, 255);
+}
+
+#menuHead{
+    background-color: rgb(255, 255, 255);
+}
