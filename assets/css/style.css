@@ -88,15 +88,62 @@ nav a b:hover {
     justify-content: left;
     flex-direction: row;
     display: flex;
-    background-color: rgb(255, 255, 255);
     height: 669px;
+    
 }
 
 #containerTextHeader{
-
+    width: 700px;
 }
 
 #containerImageHeader{
+    margin-left: 0px;
+    margin-top: 36px;
+    
+}
+
+#titlePriciopal{
+    width: 500px;
+    margin-left: 100px;
+    font-size: 65px;
 
 }
-/*Arrumar sobreposição da imagem*/
+
+#subPrincipal{
+    margin-left: 100px;
+    font-size: 30px;
+}
+
+.buttonsStores{
+   display: flex;
+   flex-direction: row;
+}
+
+#buttonsStores{
+    margin-left: 100px;
+}
+
+.buttonsDownload{
+    padding: 15px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 20px;
+    color: white;
+    background-color: #48CE58;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0px 0px 6px rgb(172, 172, 172);
+}
+
+.buttonsDownload:hover{
+    background-color: #49f05c;
+    box-shadow: 0px 0px 4px rgb(113, 113, 113);
+}
+
+#applestore{
+    margin-left: 15px;
+}
+
+#walletTexto{
+    color: #48CE58;
+}
