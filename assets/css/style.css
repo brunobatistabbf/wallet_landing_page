@@ -147,3 +147,9 @@ nav a b:hover {
 #walletTexto{
     color: #48CE58;
 }
+
+/* Features */
+.containerFeatures{
+    height: 800px;
+    background-color: white;
+}
