@@ -150,6 +150,20 @@ nav a b:hover {
 
 /* Features */
 .containerFeatures{
+   
     height: 800px;
     background-color: white;
+    justify-content: center;
+}
+
+#tituloFeatures{
+    justify-content: center;
+    text-align:center;
+    font-size: 34px;
+    font-family: 'Nunito', sans-serif;
+    color: #333333;
+    width: 800px;
+    margin-top: 70px;
+    margin-left: 350px;
+
 }
