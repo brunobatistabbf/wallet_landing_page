@@ -167,3 +167,9 @@ nav a b:hover {
     margin-left: 350px;
 
 }
+
+#featuresRow{
+    display: flex;
+    flex-direction: row;
+}
+
