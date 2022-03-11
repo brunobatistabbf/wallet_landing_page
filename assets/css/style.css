@@ -173,3 +173,24 @@ nav a b:hover {
     flex-direction: row;
 }
 
+#containerFeaturesIcons {
+   margin-top: 50px;
+
+}
+
+#containerFeaturesIcons2{
+    margin-top: 30px;
+}
+
+#featuresRow{
+    margin-top: 30px;
+    justify-content: center;
+}
+
+#feature{
+    margin-right: 50px;
+}
+
+#featureTitle{
+    font-size: 21px;
+}
