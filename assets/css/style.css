@@ -189,8 +189,16 @@ nav a b:hover {
 
 #feature{
     margin-right: 50px;
+    text-align: center;
 }
 
 #featureTitle{
     font-size: 21px;
+    text-align:center;
+}
+
+#featureText{
+    width: 270px;
+    text-align: center;
+    font-size: 17px;
 }
