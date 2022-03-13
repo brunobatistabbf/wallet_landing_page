@@ -151,7 +151,7 @@ nav a b:hover {
 /* Features */
 .containerFeatures{
    
-    height: 800px;
+    height: 700px;
     background-color: white;
     justify-content: center;
 }
@@ -202,3 +202,4 @@ nav a b:hover {
     text-align: center;
     font-size: 17px;
 }
+/*Download Linux, Windows e IOS*/
