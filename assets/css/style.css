@@ -203,3 +203,8 @@ nav a b:hover {
     font-size: 17px;
 }
 /*Download Linux, Windows e IOS*/
+
+.containerDownloadDesktop{
+    background-color: rgb(243, 243, 243);
+    height: 600px;
+}
