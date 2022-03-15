@@ -281,3 +281,8 @@ nav a b:hover {
     color: rgb(175, 175, 175);
 }
 /*Atualizações em tempo real e dados demográficos de atividades fEATURE*/
+.containerAtualizacaoFeature{
+    justify-content: center;
+    background-color: white;
+    display: flex;
+}
