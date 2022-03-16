@@ -307,3 +307,49 @@ nav a b:hover {
     color: #A1A1A1;
 
 }
+
+/*Parte referente a div de preços*/
+.containerPrice{
+    display: flex;
+    padding-right: 100px;
+    padding-left: 270px;
+   
+}
+
+#boxPrice{
+    display: flex;
+}
+
+#textboxPrice{
+    margin-right: 40px;
+    margin-top: 50px;
+    width: 350px;
+}
+
+#titlePrice{
+    font-size: 34px;
+    color: black;
+    margin-bottom: 20px;
+}
+
+#textPrice{
+    font-size: 18px;
+    color: #A1A1A1;
+    text-align:justify;
+    margin-bottom: 20px;
+}
+
+#contactPrice{
+    font-size: 14px;
+    color: #A1A1A1;
+    margin-bottom: 30px;
+}
+
+#contactPrice a{
+    text-decoration: none;
+    color: #06a719;
+    
+    
+}
+
+
