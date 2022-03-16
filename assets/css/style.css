@@ -285,4 +285,25 @@ nav a b:hover {
     justify-content: center;
     background-color: white;
     display: flex;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+#textAtualizacao{
+    width: 445px;
+    margin-right: 50px;
+}
+
+#textAtualizacaoTitle{
+    margin-top: 90px;
+    font-size: 44px;
+    color: #222222;
+}
+
+#textAtualizacaoText{
+    text-align:justify;
+    margin-top: 20px;
+    font-size: 18px;
+    color: #A1A1A1;
+
 }
