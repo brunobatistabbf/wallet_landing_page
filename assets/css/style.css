@@ -400,3 +400,69 @@ nav a b:hover {
     box-shadow: 0 10px 30px rgba(0, 255, 30, 0.5);
     background-color: #44f058;
 }
+
+/*Baixar com banner*/
+.containerStoresIcons{
+    display: flex;
+    justify-content: left;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0)), url(../images/fundo.png) no-repeat center center;
+    background-position: center;
+    background-size: cover;
+    height: 569px;
+    padding-left: 100px;
+   
+}
+
+.containerTextStores{
+    text-align: center;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    width: 500px;
+   
+}
+
+#logoStores{
+    font-size: 65px;
+    color: #48CE58;
+}
+
+#logoStoresTitle{
+    color: white;
+    font-size: 34px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#logoStoresText{
+    color: white;
+    font-size: 18px;
+
+}
+
+#butoesStores{
+    display: flex;
+    justify-content: center;
+}
+
+#logoStoresStars{
+    margin-top: 40px;
+    margin-bottom: 20px;
+}
+
+footer{
+    background-color: black;
+}
+
+#footer{
+    margin-left: 12px;
+    padding: 10px;
+    font-size: 12px;
+    color: #505050;
+    background-color: black;
+}
+
+#footer a{
+
+   text-decoration: none;
+   color:#505050;
+}
